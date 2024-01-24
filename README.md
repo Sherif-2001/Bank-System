@@ -16,7 +16,7 @@ Welcome to our Bank System, a simple console-based application that allows clien
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/java-bank-system.git
+   git clone https://github.com/Sherif-2001/bank-system.git
 
 2. Compile and Run:
 - Open a terminal or command prompt.
